@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 Hello Everyone👋, I'm Priyanka Chavan, I'm a web developer and a cloud enthusiast
-@@ -8,31 +9,25 @@ Hello Everyone👋, I'm Priyanka Chavan, I'm a web developer and a cloud enthusiast
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=portfolio&logoColor=white)](https://prayag-portfolio.vercel.app/)
-
 ## TECHSTACK
 
 ### Programming Language
