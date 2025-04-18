@@ -1,6 +1,5 @@
-### Hi there 👋
+###Hello Everyone👋, I'm Priyanka Chavan, I'm a web developer 
 
-Hello Everyone👋, I'm Priyanka Chavan, I'm a web developer and a cloud enthusiast
 ## TECHSTACK
 
 ### Programming Language
